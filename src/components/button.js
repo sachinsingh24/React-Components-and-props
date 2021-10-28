@@ -2,7 +2,7 @@ import React from 'react';
 import './button.css'
 const Button = () => {
   return (
-    <div>
+    <div className="btn">
       <button type="button">Subscribe</button>
     </div>
   );

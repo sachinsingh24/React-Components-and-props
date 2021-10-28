@@ -3,8 +3,12 @@ button {
   border: none;
   border-radius: 0.3rem;
   outline: none;
-  margin: 1rem;
   background-color: rgba(238, 75, 75, 0.979);
   color: white;
+  margin-bottom: 4rem;
+  margin-top: 1.5rem;
+}
+btn {
+  display: flex;
   justify-content: center;
 }
